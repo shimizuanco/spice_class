@@ -1,1 +1,1 @@
-# spice app for building up application.
+# spice class for building up application.
