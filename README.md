@@ -1,1 +1,2 @@
-# spice class for building up application.
+# SPICE application class for non-thread-safe Python application.
+
